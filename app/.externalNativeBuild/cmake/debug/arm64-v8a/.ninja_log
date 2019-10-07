@@ -1,0 +1,18 @@
+# ninja log v5
+2	13682	592145777	CMakeFiles/native-lib.dir/native-lib.cpp.o	e3184c379f705653
+38	11938	592145925	CMakeFiles/native-lib.dir/native-lib.cpp.o	e3184c379f705653
+11946	12830	592145926	C:/Users/BORAM/AndroidStudioProjects/ForKids/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9eee7af5a2fe5d0
+20	5810	592146481	CMakeFiles/native-lib.dir/native-lib.cpp.o	e3184c379f705653
+5811	6908	592146482	C:/Users/BORAM/AndroidStudioProjects/ForKids/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9eee7af5a2fe5d0
+49	9482	592148711	CMakeFiles/native-lib.dir/native-lib.cpp.o	e3184c379f705653
+9486	11692	592148713	C:/Users/BORAM/AndroidStudioProjects/ForKids/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9eee7af5a2fe5d0
+76	9246	592148817	CMakeFiles/native-lib.dir/native-lib.cpp.o	e3184c379f705653
+9247	10443	592148818	C:/Users/BORAM/AndroidStudioProjects/ForKids/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9eee7af5a2fe5d0
+49	8730	592148911	CMakeFiles/native-lib.dir/native-lib.cpp.o	e3184c379f705653
+8732	12610	592148915	C:/Users/BORAM/AndroidStudioProjects/ForKids/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9eee7af5a2fe5d0
+55	16987	592149173	CMakeFiles/native-lib.dir/native-lib.cpp.o	e3184c379f705653
+16988	18768	592149174	C:/Users/BORAM/AndroidStudioProjects/ForKids/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9eee7af5a2fe5d0
+25	9168	592150731	CMakeFiles/native-lib.dir/native-lib.cpp.o	e3184c379f705653
+9169	10435	592150732	C:/Users/BORAM/AndroidStudioProjects/ForKids/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9eee7af5a2fe5d0
+24	7584	592150898	CMakeFiles/native-lib.dir/native-lib.cpp.o	e3184c379f705653
+7585	9414	592150900	C:/Users/BORAM/AndroidStudioProjects/ForKids/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9eee7af5a2fe5d0

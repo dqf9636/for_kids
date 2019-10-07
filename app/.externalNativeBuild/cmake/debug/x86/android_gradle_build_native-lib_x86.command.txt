@@ -1,0 +1,8 @@
+Executable : C:\Users\BORAM\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+--build
+C:\Users\BORAM\AndroidStudioProjects\ForKids\app\.externalNativeBuild\cmake\debug\x86
+--target
+native-lib
+jvmArgs : 
+

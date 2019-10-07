@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\BORAM\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\BORAM\\AndroidStudioProjects\\ForKids\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\BORAM\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\BORAM\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"C:\\Users\\BORAM\\AndroidStudioProjects\\ForKids\\app\\.externalNativeBuild\\cmake\\debug\\x86\" --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\BORAM\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"C:\\Users\\BORAM\\AndroidStudioProjects\\ForKids\\app\\.externalNativeBuild\\cmake\\debug\\x86\" --target native-lib",
+      "abi": "x86",
+      "output": "C:\\Users\\BORAM\\AndroidStudioProjects\\ForKids\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so"
+    }
+  }
+}
